@@ -1,0 +1,24 @@
+Student,Jack,Smith,117,-1,Sunshine Dr.,Los Angeles,CA,90012,jsmith@school.edu,freshman,,,
+Phone,Cell,555,555,5555
+Phone,Home,777,777,7777
+Faculty,Jack,Smith,117,21,Sunshine Dr.,Los Angeles,CA,90012,jsmith@school.edu,E&T-310,40000,M/W 1-2 T/TH 3-4,Full Time
+Phone,Cell,555,555,5555
+Phone,Home,777,777,7777
+Phone,Work,888,888,8888
+Staff,Jack,Smith,117,15,Sunshine Dr.,Los Angeles,CA,90012,jsmith@school.edu,E&T-310,30000,Computer Science Administrative Assistant,
+Phone,Cell,555,555,5555
+Student,Jane,Doe,123,#12A,Rainbow Rd.,San Francisco,CA,12345,jdoe@email.com,Senior,,,
+Phone,Cell,123,456,7890
+Phone,Home,909,123,4567
+Student ,Lara,Croft,234,-1,Elm St.,San Jose,CA,23456,lcroft@email.com,Graduate,,,
+Phone,Secret,123,111,5555
+Faculty,Bob,Ross,3456,1,Squirrel Rd,Phoenix,AZ,98765,bross@email.com,Bulding A,5000000,M 10-12,Full Time
+Phone,Office,222,555,7777
+Phone,Cell,666,555,7776
+Faculty,Billy,Idol,99999,-1,Los Angeles St,Los Angeles,CA,90210,bidol@bidol.com,Office,10,N/A,Part Time
+Phone,Main,555,555,1234
+Staff,Tammy,Swanson,666,-1,Grove Rd,Pawnee,IN,54665,tswanson@pawnee.gov,Library 112,29000,Librarian,
+Phone,Test1,111,111,1111
+Phone,Test2,222,222,2222
+Phone,Test3,333,333,3333
+Phone,Test4,444,444,4444
